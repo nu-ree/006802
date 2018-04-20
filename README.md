@@ -16,4 +16,4 @@
 대신, GeoGebra(https://www.geogebra.org/m/pDU4peV5)에서 제공하는 Linear Transformation 애니메이션을 참고하였습니다. </br>
 
 
-### 1. Terms in English -- Wiki 
+### 1. Terms in English -- Wiki 참조
