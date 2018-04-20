@@ -13,7 +13,7 @@
 </br>
 책에 나와있는 대로 Ruby와 Gnuplot을 모두 설치하고, 코드를 실행해보았지만 계속 오류가 나서 결국 저자들이 제공하는 애니메이션을 확인하는 것은 포기했습니다(OTL) </br> 
 </br>
-대신, GeoGebra(https://www.geogebra.org/m/pDU4peV5)에서 제공하는 Linear Transformation 애니메이션을 참고하였습니다. </br>
+대신, GeoGebra(https://www.geogebra.org/m/pDU4peV5) 의 Linear Transformation 애니메이션을 참고하였습니다. </br>
 
 
 ### 1. Terms in English -- Wiki 참조
